@@ -58,7 +58,10 @@ padding-bottom: 53px;
   margin:0 auto;
   padding-top:200px; 
 }
-
+.section-style-one{
+  margin-top: -100px;
+  margin-bottom: -500px;
+}
 
 
 
@@ -83,8 +86,8 @@ padding-bottom: 53px;
   text-align: center;
   margin-bottom: 50px;
 }
-.img-div{
-  padding-bottom: -60px;
+.section-style{
+  margin-top: -300px;
 }
 .web{
   margin-top: 10px;
